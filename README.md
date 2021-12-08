@@ -1,6 +1,6 @@
 # XbeeDCCNode
 
-## This is a place holder. Current development is in private repositories. Sorry about that scavengers.
+### This is a place holder. Current development is in private repositories.
 
 #### I have 55 repositories marked as private, however most of them are obsolete.
 #### These remain active, plus the public ones pinned to my front page:
