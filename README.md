@@ -1,4 +1,4 @@
-# XbeeProtothrottle Development
+# Xbee Protothrottle Development
 
 ### This is a place holder. Commercial development is in private repositories.
 
